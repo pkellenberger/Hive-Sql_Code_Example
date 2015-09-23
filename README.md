@@ -60,4 +60,4 @@ if(YEAR(CURDATE())=YEAR(DeliveryDay)
   , audiencetargetcodelist
   , dimensioncode
   , devicecontextcode
-5563 Pulse Tempe
+
